@@ -1,0 +1,13 @@
+# Ignore node_modules and build files
+frontend/node_modules/
+frontend/build/
+backend/node_modules/
+backend/dist/
+
+# Ignore environment variables
+.env
+frontend/.env
+backend/.env
+
+# Ignore VS Code settings
+.vscode/
